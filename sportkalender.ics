@@ -1,0 +1,351 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BZ Sportkalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sportkalender Madrid Ski Cowboys
+BEGIN:VEVENT
+UID:ski-20261025-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:⛷ Ski Männer: Riesenslalom – Sölden
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261115-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:⛷ Ski Männer: Slalom – Levi
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261122-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:⛷ Ski Männer: Slalom – Gurgl
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261128-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:⛷ Ski Männer: Super-G – Copper Mountain
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261129-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:⛷ Ski Männer: Riesenslalom – Copper Mountain
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261203-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:⛷ Ski Männer: Abfahrt – Beaver Creek
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261204-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:⛷ Ski Männer: Abfahrt – Beaver Creek
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261205-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:⛷ Ski Männer: Super-G – Beaver Creek
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261206-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:⛷ Ski Männer: Riesenslalom – Beaver Creek
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261212-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:⛷ Ski Männer: Riesenslalom – Val d'Isère
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261213-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:⛷ Ski Männer: Slalom – Val d'Isère
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261218-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:⛷ Ski Männer: Super-G – Gröden
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261219-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:⛷ Ski Männer: Abfahrt – Gröden
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261220-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:⛷ Ski Männer: Riesenslalom – Alta Badia
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261221-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:⛷ Ski Männer: Slalom – Alta Badia
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261223-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:⛷ Ski Männer: Slalom – Madonna di Campiglio
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261228-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:⛷ Ski Männer: Abfahrt – Bormio
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20261229-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:⛷ Ski Männer: Super-G – Bormio
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270102-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:⛷ Ski Männer: Riesenslalom – Kranjska Gora
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270103-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:⛷ Ski Männer: Slalom – Kranjska Gora
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270109-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:⛷ Ski Männer: Riesenslalom – Adelboden
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270110-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:⛷ Ski Männer: Slalom – Adelboden
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270115-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:⛷ Ski Männer: Super-G – Wengen
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270116-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:⛷ Ski Männer: Abfahrt – Wengen
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270117-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:⛷ Ski Männer: Slalom – Wengen
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270122-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:⛷ Ski Männer: Super-G – Kitzbühel
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270123-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:⛷ Ski Männer: Abfahrt – Kitzbühel
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270124-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:⛷ Ski Männer: Slalom – Kitzbühel
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270126-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:⛷ Ski Männer: Riesenslalom – Schladming
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270127-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:⛷ Ski Männer: Slalom – Schladming
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270130-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:⛷ Ski Männer: Slalom – Chamonix
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270220-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:⛷ Ski Männer: Abfahrt – Garmisch-Partenkirchen
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270221-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:⛷ Ski Männer: Super-G – Garmisch-Partenkirchen
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270227-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:⛷ Ski Männer: Abfahrt – Saalbach
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270228-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:⛷ Ski Männer: Super-G – Saalbach
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270306-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:⛷ Ski Männer: Abfahrt – Kvitfjell
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270307-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:⛷ Ski Männer: Super-G – Kvitfjell
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270313-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:⛷ Ski Männer: Riesenslalom – Åre
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270314-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:⛷ Ski Männer: Slalom – Åre
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270320-Abfahrt@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:⛷ Ski Männer: Abfahrt – Sun Valley (Finale)
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270321-Super-G@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:⛷ Ski Männer: Super-G – Sun Valley (Finale)
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270324-Riesenslalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:⛷ Ski Männer: Riesenslalom – Sun Valley (Finale)
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+BEGIN:VEVENT
+UID:ski-20270325-Slalom@bzenger92
+DTSTAMP:20261019T140000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:⛷ Ski Männer: Slalom – Sun Valley (Finale)
+DESCRIPTION:Ski Startzeit und Verschiebungen noch nicht automatisch geprüft.
+END:VEVENT
+END:VCALENDAR
