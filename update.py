@@ -5,7 +5,7 @@ from icalendar import Calendar, Event
 ROOT = Path(__file__).parent
 NOW = datetime.now(timezone.utc)
 cal = Calendar()
-for key, val in [('prodid','-//BZ Sportkalender Live//DE'),('version','2.0'),('calscale','GREGORIAN'),('method','PUBLISH'),('X-WR-CALNAME','Sportkalender Live | Real Madrid | Ski | Dallas Cowboys'),('X-WR-TIMEZONE','Europe/Zurich'),('X-PUBLISHED-TTL','PT12H'),('REFRESH-INTERVAL','PT12H')]:
+for key, val in [('prodid','-//BZ Sportkalender Live//DE'),('version','2.0'),('calscale','GREGORIAN'),('method','PUBLISH'),('X-WR-CALNAME','Sportkalender Live | Real Madrid | Ski | Dallas Cowboys'),('X-WR-TIMEZONE','Europe/Zurich')]:
     cal.add(key,val)
 def add(summary,dt,uid,duration=timedelta(hours=3),description=''):
     e=Event()
