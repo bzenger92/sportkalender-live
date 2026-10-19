@@ -53,23 +53,31 @@ def add_games(items,category,seen):
             add(('⚽ ' if category=='real' else '🏈 ')+home+' – '+away,dt,category+'-'+ident+'@bzenger92',timedelta(hours=3,minutes=30) if category=='nfl' else timedelta(hours=2,minutes=15),'Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlook auf Europe/Zurich umgerechnet.')
         except (KeyError,StopIteration,ValueError,TypeError) as ex:
             print('Skip event',str(ex))
-real=[]
-for league in ('esp.1','uefa.champions','esp.copa_del_rey'):
-    for season in ('2026','2027'):
-        real+=fetch('https://site.api.espn.com/apis/site/v2/sports/soccer/'+league+'/teams/86/schedule?season='+season+'&limit=500')
-# ESPN team schedule sometimes returns only recently played fixtures.
-# Fetch the competition-wide upcoming scoreboards as an additional source.
-for league in ('esp.1', 'uefa.champions', 'esp.copa_del_rey'):
-    games=fetch('https://site.api.espn.com/apis/site/v2/sports/soccer/'+league+'/scoreboard?dates=20261019-20270701&limit=1000')
-    for game in games:
-        try:
-            teams=[x['team'] for x in game['competitions'][0]['competitors']]
-            if any(str(t.get('id'))=='86' or 'Real Madrid' in t.get('displayName','') for t in teams):
-                real.append(game)
-        except (KeyError,IndexError,TypeError):
-            continue
+# Public Real Madrid fixture subscription: independent of ESPN's truncated team API.
+REAL_FEED = 'https://www.google.com/calendar/ical/strl8p7aja3asegdktmb62h4f4%40group.calendar.google.com/public/basic.ics'
+try:
+    response=requests.get(REAL_FEED,timeout=30,headers={'User-Agent':'Mozilla/5.0'})
+    response.raise_for_status()
+    madrid_calendar=Calendar.from_ical(response.content)
+    count=0
+    for event in madrid_calendar.walk('VEVENT'):
+        begin=event.decoded('dtstart')
+        end=event.decoded('dtend') if event.get('dtend') else None
+        if isinstance(begin,datetime):
+            begin=begin.replace(tzinfo=ZoneInfo('Europe/Zurich')) if begin.tzinfo is None else begin
+            if begin < NOW-timedelta(days=2): continue
+        else:
+            if begin < NOW.date()-timedelta(days=2): continue
+        duration=(end-begin) if end is not None else (timedelta(hours=2,minutes=15) if isinstance(begin,datetime) else timedelta(days=1))
+        if duration <= timedelta(0): duration=timedelta(hours=2,minutes=15)
+        uid='real-feed-'+str(event.get('uid','')).replace('@','-at-')+'@bzenger92'
+        desc='Real Madrid – externer abonnierter Spielplan. Nicht endgültig terminierte Spiele können vorläufige Uhrzeiten haben.'
+        add('⚽ '+str(event.get('summary','Real Madrid')),begin,uid,duration,desc)
+        count+=1
+    print('Real Madrid Feed:',count,'Termine')
+except Exception as exc:
+    print('Real Madrid Kalenderabruf fehlgeschlagen:',str(exc))
 nfl=fetch('https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/dal/schedule?season=2026')
-add_games(real,'real',set())
 add_games(nfl,'nfl',set())
 # Keep latest known football fixtures if upstream temporarily fails
 target=ROOT/'sportkalender.ics'
