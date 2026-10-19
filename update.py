@@ -1,4 +1,5 @@
 from datetime import datetime, timedelta, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 import requests
 from icalendar import Calendar, Event
@@ -15,7 +16,21 @@ def add(summary,dt,uid,duration=timedelta(hours=3),description=''):
 for line in (ROOT/'ski.txt').read_text(encoding='utf-8').splitlines():
     date, discipline, venue = line.split('|',2)
     d=datetime.strptime(date,'%Y%m%d').date()
-    add('⛷ Ski Männer: '+discipline+' – '+venue,d,'ski-'+date+'-'+discipline.replace(' ','-')+'@bzenger92',timedelta(days=1),'Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Verlegungen werden nicht automatisch synchronisiert. Quelle: FIS.')
+    # Swiss viewing times: confirmed for Soelden, explicitly provisional otherwise.
+    confirmed = (date == '20261025' and venue == 'Sölden')
+    if confirmed:
+        start_hour, start_minute, duration = 10, 0, timedelta(hours=4)
+    elif venue in ('Schladming', 'Madonna di Campiglio'):
+        start_hour, start_minute, duration = 17, 30, timedelta(hours=4)
+    elif discipline in ('Abfahrt', 'Super-G'):
+        start_hour, start_minute, duration = 11, 0, timedelta(hours=2)
+    else:
+        start_hour, start_minute, duration = 10, 0, timedelta(hours=4)
+    dt = datetime(d.year,d.month,d.day,start_hour,start_minute,tzinfo=ZoneInfo('Europe/Zurich'))
+    description = ('Bestätigt: 1. Lauf 10:00, 2. Lauf 13:00. Quelle: soelden.com.' if confirmed else
+        'PROVISORISCHES Zeitfenster, KEINE bestätigte Startzeit! Bitte vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.')
+    prefix = '' if confirmed else '[Zeit vorläufig] '
+    add('⛷ '+prefix+'Ski Männer: '+discipline+' – '+venue,dt,'ski-'+date+'-'+discipline.replace(' ','-')+'@bzenger92',duration,description)
 def fetch(url):
     try:
         r=requests.get(url,timeout=20,headers={'User-Agent':'Sportkalender/1.0'})
@@ -42,6 +57,17 @@ real=[]
 for league in ('esp.1','uefa.champions','esp.copa_del_rey'):
     for season in ('2026','2027'):
         real+=fetch('https://site.api.espn.com/apis/site/v2/sports/soccer/'+league+'/teams/86/schedule?season='+season+'&limit=500')
+# ESPN team schedule sometimes returns only recently played fixtures.
+# Fetch the competition-wide upcoming scoreboards as an additional source.
+for league in ('esp.1', 'uefa.champions', 'esp.copa_del_rey'):
+    games=fetch('https://site.api.espn.com/apis/site/v2/sports/soccer/'+league+'/scoreboard?dates=20261019-20270701&limit=1000')
+    for game in games:
+        try:
+            teams=[x['team'] for x in game['competitions'][0]['competitors']]
+            if any(str(t.get('id'))=='86' or 'Real Madrid' in t.get('displayName','') for t in teams):
+                real.append(game)
+        except (KeyError,IndexError,TypeError):
+            continue
 nfl=fetch('https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/dal/schedule?season=2026')
 add_games(real,'real',set())
 add_games(nfl,'nfl',set())
