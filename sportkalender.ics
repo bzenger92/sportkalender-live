@@ -7,396 +7,400 @@ X-WR-CALNAME:Sportkalender Live | Real Madrid | Ski | Dallas Cowboys
 X-WR-TIMEZONE:Europe/Zurich
 BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Sölden
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DTSTAMP:20261019T133844Z
+DTSTART;TZID=Europe/Zurich:20261025T100000
+DTEND;TZID=Europe/Zurich:20261025T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261025-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:Bestätigt: 1. Lauf 10:00\, 2. Lauf 13:00. Quelle: soelden.com
+ .
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Levi
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Levi
+DTSTART;TZID=Europe/Zurich:20261115T100000
+DTEND;TZID=Europe/Zurich:20261115T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261115-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Gurgl
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Gurgl
+DTSTART;TZID=Europe/Zurich:20261122T100000
+DTEND;TZID=Europe/Zurich:20261122T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261122-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Copper Mountain
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Copper Mountain
+DTSTART;TZID=Europe/Zurich:20261128T110000
+DTEND;TZID=Europe/Zurich:20261128T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20261128-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Copper Mountain
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Copper Mountai
+ n
+DTSTART;TZID=Europe/Zurich:20261129T100000
+DTEND;TZID=Europe/Zurich:20261129T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261129-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Beaver Creek
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Beaver Creek
+DTSTART;TZID=Europe/Zurich:20261203T110000
+DTEND;TZID=Europe/Zurich:20261203T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20261203-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Beaver Creek
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Beaver Creek
+DTSTART;TZID=Europe/Zurich:20261204T110000
+DTEND;TZID=Europe/Zurich:20261204T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20261204-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Beaver Creek
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Beaver Creek
+DTSTART;TZID=Europe/Zurich:20261205T110000
+DTEND;TZID=Europe/Zurich:20261205T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20261205-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Beaver Creek
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Beaver Creek
+DTSTART;TZID=Europe/Zurich:20261206T100000
+DTEND;TZID=Europe/Zurich:20261206T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261206-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Val d'Isère
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Val d'Isère
+DTSTART;TZID=Europe/Zurich:20261212T100000
+DTEND;TZID=Europe/Zurich:20261212T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261212-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Val d'Isère
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Val d'Isère
+DTSTART;TZID=Europe/Zurich:20261213T100000
+DTEND;TZID=Europe/Zurich:20261213T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261213-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Gröden
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Gröden
+DTSTART;TZID=Europe/Zurich:20261218T110000
+DTEND;TZID=Europe/Zurich:20261218T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20261218-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Gröden
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Gröden
+DTSTART;TZID=Europe/Zurich:20261219T110000
+DTEND;TZID=Europe/Zurich:20261219T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20261219-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Alta Badia
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Alta Badia
+DTSTART;TZID=Europe/Zurich:20261220T100000
+DTEND;TZID=Europe/Zurich:20261220T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261220-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Alta Badia
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Alta Badia
+DTSTART;TZID=Europe/Zurich:20261221T100000
+DTEND;TZID=Europe/Zurich:20261221T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20261221-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Madonna di Campiglio
-DTSTART;VALUE=DATE:20261223
-DTEND;VALUE=DATE:20261224
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Madonna di Campiglio
+DTSTART;TZID=Europe/Zurich:20261223T173000
+DTEND;TZID=Europe/Zurich:20261223T213000
+DTSTAMP:20261019T135703Z
 UID:ski-20261223-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Bormio
-DTSTART;VALUE=DATE:20261228
-DTEND;VALUE=DATE:20261229
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Bormio
+DTSTART;TZID=Europe/Zurich:20261228T110000
+DTEND;TZID=Europe/Zurich:20261228T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20261228-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Bormio
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Bormio
+DTSTART;TZID=Europe/Zurich:20261229T110000
+DTEND;TZID=Europe/Zurich:20261229T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20261229-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Kranjska Gora
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Kranjska Gora
+DTSTART;TZID=Europe/Zurich:20270102T100000
+DTEND;TZID=Europe/Zurich:20270102T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270102-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Kranjska Gora
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Kranjska Gora
+DTSTART;TZID=Europe/Zurich:20270103T100000
+DTEND;TZID=Europe/Zurich:20270103T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270103-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Adelboden
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Adelboden
+DTSTART;TZID=Europe/Zurich:20270109T100000
+DTEND;TZID=Europe/Zurich:20270109T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270109-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Adelboden
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Adelboden
+DTSTART;TZID=Europe/Zurich:20270110T100000
+DTEND;TZID=Europe/Zurich:20270110T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270110-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Wengen
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270116
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Wengen
+DTSTART;TZID=Europe/Zurich:20270115T110000
+DTEND;TZID=Europe/Zurich:20270115T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270115-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Wengen
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Wengen
+DTSTART;TZID=Europe/Zurich:20270116T110000
+DTEND;TZID=Europe/Zurich:20270116T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270116-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Wengen
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Wengen
+DTSTART;TZID=Europe/Zurich:20270117T100000
+DTEND;TZID=Europe/Zurich:20270117T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270117-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Kitzbühel
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270123
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Kitzbühel
+DTSTART;TZID=Europe/Zurich:20270122T110000
+DTEND;TZID=Europe/Zurich:20270122T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270122-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Kitzbühel
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Kitzbühel
+DTSTART;TZID=Europe/Zurich:20270123T110000
+DTEND;TZID=Europe/Zurich:20270123T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270123-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Kitzbühel
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270125
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Kitzbühel
+DTSTART;TZID=Europe/Zurich:20270124T100000
+DTEND;TZID=Europe/Zurich:20270124T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270124-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Schladming
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270127
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Schladming
+DTSTART;TZID=Europe/Zurich:20270126T173000
+DTEND;TZID=Europe/Zurich:20270126T213000
+DTSTAMP:20261019T135703Z
 UID:ski-20270126-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Schladming
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270128
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Schladming
+DTSTART;TZID=Europe/Zurich:20270127T173000
+DTEND;TZID=Europe/Zurich:20270127T213000
+DTSTAMP:20261019T135703Z
 UID:ski-20270127-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Chamonix
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Chamonix
+DTSTART;TZID=Europe/Zurich:20270130T100000
+DTEND;TZID=Europe/Zurich:20270130T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270130-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Garmisch-Partenkirchen
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Garmisch-Partenkirc
+ hen
+DTSTART;TZID=Europe/Zurich:20270220T110000
+DTEND;TZID=Europe/Zurich:20270220T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270220-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Garmisch-Partenkirchen
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270222
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Garmisch-Partenkirc
+ hen
+DTSTART;TZID=Europe/Zurich:20270221T110000
+DTEND;TZID=Europe/Zurich:20270221T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270221-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Saalbach
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Saalbach
+DTSTART;TZID=Europe/Zurich:20270227T110000
+DTEND;TZID=Europe/Zurich:20270227T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270227-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Saalbach
-DTSTART;VALUE=DATE:20270228
-DTEND;VALUE=DATE:20270301
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Saalbach
+DTSTART;TZID=Europe/Zurich:20270228T110000
+DTEND;TZID=Europe/Zurich:20270228T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270228-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Kvitfjell
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Kvitfjell
+DTSTART;TZID=Europe/Zurich:20270306T110000
+DTEND;TZID=Europe/Zurich:20270306T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270306-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Kvitfjell
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Kvitfjell
+DTSTART;TZID=Europe/Zurich:20270307T110000
+DTEND;TZID=Europe/Zurich:20270307T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270307-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Åre
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270314
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Åre
+DTSTART;TZID=Europe/Zurich:20270313T100000
+DTEND;TZID=Europe/Zurich:20270313T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270313-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Åre
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270315
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Åre
+DTSTART;TZID=Europe/Zurich:20270314T100000
+DTEND;TZID=Europe/Zurich:20270314T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270314-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Abfahrt – Sun Valley (Finale)
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270321
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Abfahrt – Sun Valley (Finale)
+DTSTART;TZID=Europe/Zurich:20270320T110000
+DTEND;TZID=Europe/Zurich:20270320T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270320-Abfahrt@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Super-G – Sun Valley (Finale)
-DTSTART;VALUE=DATE:20270321
-DTEND;VALUE=DATE:20270322
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Super-G – Sun Valley (Finale)
+DTSTART;TZID=Europe/Zurich:20270321T110000
+DTEND;TZID=Europe/Zurich:20270321T130000
+DTSTAMP:20261019T135703Z
 UID:ski-20270321-Super-G@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Riesenslalom – Sun Valley (Finale)
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Riesenslalom – Sun Valley (Fi
+ nale)
+DTSTART;TZID=Europe/Zurich:20270324T100000
+DTEND;TZID=Europe/Zurich:20270324T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270324-Riesenslalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⛷ Ski Männer: Slalom – Sun Valley (Finale)
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270326
-DTSTAMP:20261019T133844Z
+SUMMARY:⛷ [Zeit vorläufig] Ski Männer: Slalom – Sun Valley (Finale)
+DTSTART;TZID=Europe/Zurich:20270325T100000
+DTEND;TZID=Europe/Zurich:20270325T140000
+DTSTAMP:20261019T135703Z
 UID:ski-20270325-Slalom@bzenger92
-DESCRIPTION:Weltcupkalender 2026/27: Startzeit noch nicht verifiziert. Ver
- legungen werden nicht automatisch synchronisiert. Quelle: FIS.
+DESCRIPTION:PROVISORISCHES Zeitfenster\, KEINE bestätigte Startzeit! Bitt
+ e vor dem Rennen die FIS-Startliste prüfen. Zeitangabe in Europe/Zurich.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⚽ Real Madrid – Sevilla
 DTSTART:20261018T190000Z
 DTEND:20261018T211500Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:real-401882839@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -405,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Green Bay Packers – Dallas Cowboys
 DTSTART:20261019T002000Z
 DTEND:20261019T035000Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873007@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -414,7 +418,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Philadelphia Eagles – Dallas Cowboys
 DTSTART:20261027T001500Z
 DTEND:20261027T034500Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873009@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -423,7 +427,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Dallas Cowboys – Arizona Cardinals
 DTSTART:20261101T180000Z
 DTEND:20261101T213000Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873024@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -432,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Indianapolis Colts – Dallas Cowboys
 DTSTART:20261108T180000Z
 DTEND:20261108T213000Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873040@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -441,7 +445,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Dallas Cowboys – San Francisco 49ers
 DTSTART:20261115T212500Z
 DTEND:20261116T005500Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873063@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -450,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Dallas Cowboys – Tennessee Titans
 DTSTART:20261122T180000Z
 DTEND:20261122T213000Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873073@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -459,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Dallas Cowboys – Philadelphia Eagles
 DTSTART:20261126T213000Z
 DTEND:20261127T010000Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873080@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -468,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Seattle Seahawks – Dallas Cowboys
 DTSTART:20261208T011500Z
 DTEND:20261208T044500Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873108@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -477,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Los Angeles Rams – Dallas Cowboys
 DTSTART:20261220T212500Z
 DTEND:20261221T005500Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873136@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -486,7 +490,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Dallas Cowboys – Jacksonville Jaguars
 DTSTART:20261228T012000Z
 DTEND:20261228T045000Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873154@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -495,7 +499,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Dallas Cowboys – New York Giants
 DTSTART:20270103T180000Z
 DTEND:20270103T213000Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873165@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
@@ -504,7 +508,7 @@ BEGIN:VEVENT
 SUMMARY:🏈 Washington Commanders – Dallas Cowboys
 DTSTART:20270110T050000Z
 DTEND:20270110T083000Z
-DTSTAMP:20261019T133844Z
+DTSTAMP:20261019T135703Z
 UID:nfl-401873175@bzenger92
 DESCRIPTION:Spielplan automatisch von ESPN abgefragt. Zeitangaben in Outlo
  ok auf Europe/Zurich umgerechnet.
