@@ -5,11 +5,16 @@ on:
     - cron: '21 5 * * *'
 permissions:
   contents: write
+concurrency:
+  group: sportkalender-update
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -20,4 +25,19 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add sportkalender.ics
-          git diff --cached --quiet || (git commit -m 'Kalender aktualisiert' && git push)
+          if git diff --cached --quiet; then
+            echo "Keine Kalenderänderungen."
+            exit 0
+          fi
+          git commit -m 'Kalender aktualisiert'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              echo "Kalender erfolgreich aktualisiert."
+              exit 0
+            fi
+            sleep 3
+          done
+          echo "Fehler beim Hochladen nach drei Versuchen."
+          exit 1
