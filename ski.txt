@@ -1,0 +1,43 @@
+20261025|Riesenslalom|Sölden
+20261115|Slalom|Levi
+20261122|Slalom|Gurgl
+20261128|Super-G|Copper Mountain
+20261129|Riesenslalom|Copper Mountain
+20261203|Abfahrt|Beaver Creek
+20261204|Abfahrt|Beaver Creek
+20261205|Super-G|Beaver Creek
+20261206|Riesenslalom|Beaver Creek
+20261212|Riesenslalom|Val d'Isère
+20261213|Slalom|Val d'Isère
+20261218|Super-G|Gröden
+20261219|Abfahrt|Gröden
+20261220|Riesenslalom|Alta Badia
+20261221|Slalom|Alta Badia
+20261223|Slalom|Madonna di Campiglio
+20261228|Abfahrt|Bormio
+20261229|Super-G|Bormio
+20270102|Riesenslalom|Kranjska Gora
+20270103|Slalom|Kranjska Gora
+20270109|Riesenslalom|Adelboden
+20270110|Slalom|Adelboden
+20270115|Super-G|Wengen
+20270116|Abfahrt|Wengen
+20270117|Slalom|Wengen
+20270122|Super-G|Kitzbühel
+20270123|Abfahrt|Kitzbühel
+20270124|Slalom|Kitzbühel
+20270126|Riesenslalom|Schladming
+20270127|Slalom|Schladming
+20270130|Slalom|Chamonix
+20270220|Abfahrt|Garmisch-Partenkirchen
+20270221|Super-G|Garmisch-Partenkirchen
+20270227|Abfahrt|Saalbach
+20270228|Super-G|Saalbach
+20270306|Abfahrt|Kvitfjell
+20270307|Super-G|Kvitfjell
+20270313|Riesenslalom|Åre
+20270314|Slalom|Åre
+20270320|Abfahrt|Sun Valley (Finale)
+20270321|Super-G|Sun Valley (Finale)
+20270324|Riesenslalom|Sun Valley (Finale)
+20270325|Slalom|Sun Valley (Finale)
