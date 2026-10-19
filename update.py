@@ -41,7 +41,7 @@ def add_games(items,category,seen):
 real=[]
 for league in ('esp.1','uefa.champions','esp.copa_del_rey'):
     for season in ('2026','2027'):
-        real+=fetch('https://site.api.espn.com/apis/site/v2/sports/soccer/'+league+'/teams/86/schedule?season='+season)
+        real+=fetch('https://site.api.espn.com/apis/site/v2/sports/soccer/'+league+'/teams/86/schedule?season='+season+'&limit=500')
 nfl=fetch('https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/dal/schedule?season=2026')
 add_games(real,'real',set())
 add_games(nfl,'nfl',set())
