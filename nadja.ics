@@ -1,0 +1,431 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nadja Sportkalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nadja Sportkalender
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261025-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261025T10000
+DTEND;TZID=Europe/Zurich:20261025T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Sölden [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261115-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261115T10000
+DTEND;TZID=Europe/Zurich:20261115T14000
+SUMMARY:⛷ Ski Männer: Slalom – Levi [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261122-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261122T10000
+DTEND;TZID=Europe/Zurich:20261122T14000
+SUMMARY:⛷ Ski Männer: Slalom – Gurgl [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261128-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261128T11000
+DTEND;TZID=Europe/Zurich:20261128T13000
+SUMMARY:⛷ Ski Männer: Super-G – Copper Mountain [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261129-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261129T10000
+DTEND;TZID=Europe/Zurich:20261129T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Copper Mountain [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261203-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261203T11000
+DTEND;TZID=Europe/Zurich:20261203T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Beaver Creek [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261204-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261204T11000
+DTEND;TZID=Europe/Zurich:20261204T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Beaver Creek [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261205-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261205T11000
+DTEND;TZID=Europe/Zurich:20261205T13000
+SUMMARY:⛷ Ski Männer: Super-G – Beaver Creek [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261206-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261206T10000
+DTEND;TZID=Europe/Zurich:20261206T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Beaver Creek [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261212-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261212T10000
+DTEND;TZID=Europe/Zurich:20261212T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Val d'Isère [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261213-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261213T10000
+DTEND;TZID=Europe/Zurich:20261213T14000
+SUMMARY:⛷ Ski Männer: Slalom – Val d'Isère [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261218-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261218T11000
+DTEND;TZID=Europe/Zurich:20261218T13000
+SUMMARY:⛷ Ski Männer: Super-G – Gröden [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261219-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261219T11000
+DTEND;TZID=Europe/Zurich:20261219T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Gröden [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261220-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261220T10000
+DTEND;TZID=Europe/Zurich:20261220T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Alta Badia [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261221-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261221T10000
+DTEND;TZID=Europe/Zurich:20261221T14000
+SUMMARY:⛷ Ski Männer: Slalom – Alta Badia [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261223-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261223T17300
+DTEND;TZID=Europe/Zurich:20261223T21300
+SUMMARY:⛷ Ski Männer: Slalom – Madonna di Campiglio [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261228-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261228T11000
+DTEND;TZID=Europe/Zurich:20261228T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Bormio [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20261229-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261229T11000
+DTEND;TZID=Europe/Zurich:20261229T13000
+SUMMARY:⛷ Ski Männer: Super-G – Bormio [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270102-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270102T10000
+DTEND;TZID=Europe/Zurich:20270102T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Kranjska Gora [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270103-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270103T10000
+DTEND;TZID=Europe/Zurich:20270103T14000
+SUMMARY:⛷ Ski Männer: Slalom – Kranjska Gora [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270109-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270109T10000
+DTEND;TZID=Europe/Zurich:20270109T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Adelboden [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270110-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270110T10000
+DTEND;TZID=Europe/Zurich:20270110T14000
+SUMMARY:⛷ Ski Männer: Slalom – Adelboden [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270115-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270115T11000
+DTEND;TZID=Europe/Zurich:20270115T13000
+SUMMARY:⛷ Ski Männer: Super-G – Wengen [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270116-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270116T11000
+DTEND;TZID=Europe/Zurich:20270116T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Wengen [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270117-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270117T10000
+DTEND;TZID=Europe/Zurich:20270117T14000
+SUMMARY:⛷ Ski Männer: Slalom – Wengen [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270122-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270122T11000
+DTEND;TZID=Europe/Zurich:20270122T13000
+SUMMARY:⛷ Ski Männer: Super-G – Kitzbühel [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270123-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270123T11000
+DTEND;TZID=Europe/Zurich:20270123T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Kitzbühel [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270124-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270124T10000
+DTEND;TZID=Europe/Zurich:20270124T14000
+SUMMARY:⛷ Ski Männer: Slalom – Kitzbühel [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270126-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270126T17300
+DTEND;TZID=Europe/Zurich:20270126T21300
+SUMMARY:⛷ Ski Männer: Riesenslalom – Schladming [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270127-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270127T17300
+DTEND;TZID=Europe/Zurich:20270127T21300
+SUMMARY:⛷ Ski Männer: Slalom – Schladming [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270130-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270130T10000
+DTEND;TZID=Europe/Zurich:20270130T14000
+SUMMARY:⛷ Ski Männer: Slalom – Chamonix [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270220-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270220T11000
+DTEND;TZID=Europe/Zurich:20270220T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Garmisch-Partenkirchen [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270221-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270221T11000
+DTEND;TZID=Europe/Zurich:20270221T13000
+SUMMARY:⛷ Ski Männer: Super-G – Garmisch-Partenkirchen [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270227-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270227T11000
+DTEND;TZID=Europe/Zurich:20270227T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Saalbach [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270228-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270228T11000
+DTEND;TZID=Europe/Zurich:20270228T13000
+SUMMARY:⛷ Ski Männer: Super-G – Saalbach [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270306-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270306T11000
+DTEND;TZID=Europe/Zurich:20270306T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Kvitfjell [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270307-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270307T11000
+DTEND;TZID=Europe/Zurich:20270307T13000
+SUMMARY:⛷ Ski Männer: Super-G – Kvitfjell [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270313-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270313T10000
+DTEND;TZID=Europe/Zurich:20270313T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Åre [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270314-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270314T10000
+DTEND;TZID=Europe/Zurich:20270314T14000
+SUMMARY:⛷ Ski Männer: Slalom – Åre [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270320-Abfahrt@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270320T11000
+DTEND;TZID=Europe/Zurich:20270320T13000
+SUMMARY:⛷ Ski Männer: Abfahrt – Sun Valley (Finale) [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270321-Super-G@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270321T11000
+DTEND;TZID=Europe/Zurich:20270321T13000
+SUMMARY:⛷ Ski Männer: Super-G – Sun Valley (Finale) [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270324-Riesenslalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270324T10000
+DTEND;TZID=Europe/Zurich:20270324T14000
+SUMMARY:⛷ Ski Männer: Riesenslalom – Sun Valley (Finale) [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Männer-20270325-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270325T10000
+DTEND;TZID=Europe/Zurich:20270325T14000
+SUMMARY:⛷ Ski Männer: Slalom – Sun Valley (Finale) [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20261114-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261114T10000
+DTEND;TZID=Europe/Zurich:20261114T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Levi [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20261121-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261121T10000
+DTEND;TZID=Europe/Zurich:20261121T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Gurgl [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20261129-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261129T10000
+DTEND;TZID=Europe/Zurich:20261129T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Killington [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20261222-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261222T10000
+DTEND;TZID=Europe/Zurich:20261222T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Courchevel [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20261229-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20261229T10000
+DTEND;TZID=Europe/Zurich:20261229T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Gosau [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20270105-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270105T17300
+DTEND;TZID=Europe/Zurich:20270105T21300
+SUMMARY:⛷ Ski Frauen: Slalom – Flachau [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20270124-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270124T10000
+DTEND;TZID=Europe/Zurich:20270124T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Jasna [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20270130-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270130T10000
+DTEND;TZID=Europe/Zurich:20270130T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Kranjska Gora [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20270307-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270307T10000
+DTEND;TZID=Europe/Zurich:20270307T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Soldeu [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+BEGIN:VEVENT
+UID:nadja-ski-Frauen-20270325-Slalom@bzenger92
+DTSTAMP:20261023T120000Z
+DTSTART;TZID=Europe/Zurich:20270325T10000
+DTEND;TZID=Europe/Zurich:20270325T14000
+SUMMARY:⛷ Ski Frauen: Slalom – Sun Valley [Zeit vorläufig]
+DESCRIPTION:Zeitfenster nur provisorisch. Offizielle Rennzeiten überprüfen.
+END:VEVENT
+END:VCALENDAR
