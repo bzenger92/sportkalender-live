@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Lerchenfeld (3.) - SC Huttwil (4.)
 DTSTART;TZID=TZsfv:20270130T153000
 DTEND;TZID=TZsfv:20270130T173000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4408153-at-football.ch@bzenger92
 DESCRIPTION:Trainingsspiele \n\nSpielnummer 711735\nnoch nicht ausgetragen
  \n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle: FC Lerchenfeld 
@@ -21,7 +21,7 @@ SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Lerchenfeld (3.) - SC Grafenried (3
  .)
 DTSTART;TZID=TZsfv:20270307T100000
 DTEND;TZID=TZsfv:20270307T120000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4407332-at-football.ch@bzenger92
 DESCRIPTION:Trainingsspiele \n\nSpielnummer 711002\nnoch nicht ausgetragen
  \n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle: FC Lerchenfeld 
@@ -33,7 +33,7 @@ SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Lerchenfeld (3.) - Team SIMME/SAANE
   (FC Obersimmental) (3.)
 DTSTART;TZID=TZsfv:20270329T000000
 DTEND;TZID=TZsfv:20270329T020000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343086-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130273\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -45,7 +45,7 @@ SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Rot-Schwarz (3.) - FC Lerchenfeld (
  3.)
 DTSTART;TZID=TZsfv:20270403T170000
 DTEND;TZID=TZsfv:20270403T190000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343095-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130282\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -57,7 +57,7 @@ SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Lerchenfeld (3.) - FC Münsingen (3
  .)
 DTSTART;TZID=TZsfv:20270411T100000
 DTEND;TZID=TZsfv:20270411T120000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343099-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130286\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -69,7 +69,7 @@ SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Steffisburg (3.) - FC Lerchenfeld (
  3.)
 DTSTART;TZID=TZsfv:20270417T170000
 DTEND;TZID=TZsfv:20270417T190000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343106-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130293\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -81,7 +81,7 @@ SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Lerchenfeld (3.) - FC Hünibach (3.
  )
 DTSTART;TZID=TZsfv:20270425T100000
 DTEND;TZID=TZsfv:20270425T120000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343112-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130299\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -93,7 +93,7 @@ SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Schwarzenburg (3.) - FC Lerchenfeld
   (3.)
 DTSTART;TZID=TZsfv:20270502T101500
 DTEND;TZID=TZsfv:20270502T121500
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343117-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130304\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Lerchenfeld (3.) - FC Belp (3.)
 DTSTART;TZID=TZsfv:20270509T100000
 DTEND;TZID=TZsfv:20270509T120000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343125-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130312\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Rothorn (3.) - FC Lerchenfeld (3.)
 DTSTART;TZID=TZsfv:20270522T180000
 DTEND;TZID=TZsfv:20270522T200000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343128-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130315\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Lerchenfeld (3.) - FC Heimberg (3.)
 DTSTART;TZID=TZsfv:20270530T100000
 DTEND;TZID=TZsfv:20270530T120000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343138-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130325\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -138,7 +138,7 @@ SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Lerchenfeld (3.) - FC Allmendingen
  (3.)
 DTSTART;TZID=TZsfv:20270606T100000
 DTEND;TZID=TZsfv:20270606T120000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343139-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130326\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -149,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:⚽ FC Lerchenfeld 3. Liga: FC Köniz (3.) - FC Lerchenfeld (3.)
 DTSTART;TZID=TZsfv:20270612T190000
 DTEND;TZID=TZsfv:20270612T210000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-0-4343150-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft 3. Liga - Gruppe  1\n\nSpielnummer 130337\nnoch 
  nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQuelle
@@ -161,7 +161,7 @@ SUMMARY:⚽ FC Lerchenfeld Senioren 30+: FC Allmendingen (Sen.30+) - FC Le
  rchenfeld (Sen.30+)
 DTSTART;TZID=TZsfv:20261030T200000
 DTEND;TZID=TZsfv:20261030T220000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-1-4344003-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft Senioren 30+ - FVBO - Gruppe  1\n\nSpielnummer 1
  31164\nneu angesetzt\n\nhttps://matchcenter.football.ch/?v=1448&lng=1\nQue
@@ -173,7 +173,7 @@ SUMMARY:⚽ FC Lerchenfeld Senioren 30+: FC Interlaken (Sen.30+) - FC Lerc
  henfeld (Sen.30+)
 DTSTART;TZID=TZsfv:20270409T200000
 DTEND;TZID=TZsfv:20270409T220000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-1-4344014-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft Senioren 30+ - FVBO - Gruppe  1\n\nSpielnummer 1
  31175\nnoch nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&l
@@ -185,7 +185,7 @@ SUMMARY:⚽ FC Lerchenfeld Senioren 30+: FC Lerchenfeld (Sen.30+) - FC Hei
  mberg (Sen.30+)
 DTSTART;TZID=TZsfv:20270415T201500
 DTEND;TZID=TZsfv:20270415T221500
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-1-4344017-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft Senioren 30+ - FVBO - Gruppe  1\n\nSpielnummer 1
  31178\nnoch nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&l
@@ -197,7 +197,7 @@ SUMMARY:⚽ FC Lerchenfeld Senioren 30+: SV Meiringen (Sen.30+) - FC Lerch
  enfeld (Sen.30+)
 DTSTART;TZID=TZsfv:20270423T200000
 DTEND;TZID=TZsfv:20270423T220000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-1-4344019-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft Senioren 30+ - FVBO - Gruppe  1\n\nSpielnummer 1
  31180\nnoch nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&l
@@ -209,7 +209,7 @@ SUMMARY:⚽ FC Lerchenfeld Senioren 30+: FC Lerchenfeld (Sen.30+) - FC All
  mendingen (Sen.30+)
 DTSTART;TZID=TZsfv:20270429T201500
 DTEND;TZID=TZsfv:20270429T221500
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-1-4344024-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft Senioren 30+ - FVBO - Gruppe  1\n\nSpielnummer 1
  31185\nnoch nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&l
@@ -221,7 +221,7 @@ SUMMARY:⚽ FC Lerchenfeld Senioren 30+: FC Rot-Schwarz (Sen.30+) - FC Ler
  chenfeld (Sen.30+)
 DTSTART;TZID=TZsfv:20270521T201500
 DTEND;TZID=TZsfv:20270521T221500
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-1-4344030-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft Senioren 30+ - FVBO - Gruppe  1\n\nSpielnummer 1
  31191\nnoch nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&l
@@ -233,7 +233,7 @@ SUMMARY:⚽ FC Lerchenfeld Senioren 30+: FC Lerchenfeld (Sen.30+) - FC Spi
  ez (Sen.30+)
 DTSTART;TZID=TZsfv:20270527T201500
 DTEND;TZID=TZsfv:20270527T221500
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-1-4344031-at-football.ch@bzenger92
 DESCRIPTION:Meisterschaft Senioren 30+ - FVBO - Gruppe  1\n\nSpielnummer 1
  31192\nnoch nicht ausgetragen\n\nhttps://matchcenter.football.ch/?v=1448&l
@@ -241,99 +241,18 @@ DESCRIPTION:Meisterschaft Senioren 30+ - FVBO - Gruppe  1\n\nSpielnummer 1
 LOCATION:Sportanlagen Waldeck\, Thun-Lerchenfeld - Hauptplatz
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🟡 YB: YB - GC
-DTSTART:20270207T153000Z
-DTEND:20270207T173000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-5lmh8lt5ri8vv0e58c87fdh597-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🟡 YB: Servette - YB
 DTSTART:20261220T153000Z
 DTEND:20261220T173000Z
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-2-7jhkdbkejm7v5mi33mgjqh33pb-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: Testspiel YB - SLO
-DTSTART:20261112T133000Z
-DTEND:20261112T153000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-bi626afuug7eu2eg7lncfim0vg-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-LOCATION:Stadion Wankdorf\, Papiermühlestrasse 71\, 3014 Bern\, Schweiz
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: YB - Lausanne
-DTSTART:20261212T193000Z
-DTEND:20261212T213000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-5q9v0ma05jnpmjjhqm2g3l4qrv-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: YB - Thun
-DTSTART:20261121T170000Z
-DTEND:20261121T190000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-1j7qluiesvsu7mu22bsirs99cp-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: Vaduz - YB
-DTSTART:20261205T170000Z
-DTEND:20261205T190000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-674km1cfvue671q5ct6lqoojv5-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: Basel - YB
-DTSTART:20270130T193000Z
-DTEND:20270130T213000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-2j9fi29gfhjq0c641ta3cqeoqe-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: Sion - YB
-DTSTART:20261129T153000Z
-DTEND:20261129T173000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-1eaamhfjmlh8frlpq85met40u2-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: YB - St. Gallen
-DTSTART:20261024T183000Z
-DTEND:20261024T203000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-2uhd99paheu5gvqcdp9enla4pb-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: YB - Basel (Cup-Achtelfinal)
-DTSTART:20261202T193000Z
-DTEND:20261202T213000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-6849lrig7mu0gkj1pm4v24s3g8-at-google.com@bzenger92
-DESCRIPTION:\nQuelle: BSC Young Boys
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🟡 YB: YB - Zürich
-DTSTART:20261101T130000Z
-DTEND:20261101T150000Z
-DTSTAMP:20261029T061649Z
-UID:nadja-2-567tetosq86hukdcelo2lh9pcb-at-google.com@bzenger92
 DESCRIPTION:\nQuelle: BSC Young Boys
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🟡 YB: St. Gallen - YB
 DTSTART:20270124T153000Z
 DTEND:20270124T173000Z
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-2-2928c2nfss65p5vrg0181ps58o-at-google.com@bzenger92
 DESCRIPTION:\nQuelle: BSC Young Boys
 END:VEVENT
@@ -341,31 +260,112 @@ BEGIN:VEVENT
 SUMMARY:🟡 YB: YB - Lugano
 DTSTART:20270116T193000Z
 DTEND:20270116T213000Z
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-2-1d0lao3qlepk96grvu8431sp64-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: YB - Basel (Cup-Achtelfinal)
+DTSTART:20261202T193000Z
+DTEND:20261202T213000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-6849lrig7mu0gkj1pm4v24s3g8-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: Sion - YB
+DTSTART:20261129T153000Z
+DTEND:20261129T173000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-1eaamhfjmlh8frlpq85met40u2-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: Testspiel YB - SLO
+DTSTART:20261112T133000Z
+DTEND:20261112T153000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-bi626afuug7eu2eg7lncfim0vg-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+LOCATION:Stadion Wankdorf\, Papiermühlestrasse 71\, 3014 Bern\, Schweiz
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: Vaduz - YB
+DTSTART:20261205T170000Z
+DTEND:20261205T190000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-674km1cfvue671q5ct6lqoojv5-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: Basel - YB
+DTSTART:20270130T193000Z
+DTEND:20270130T213000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-2j9fi29gfhjq0c641ta3cqeoqe-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: YB - GC
+DTSTART:20270207T153000Z
+DTEND:20270207T173000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-5lmh8lt5ri8vv0e58c87fdh597-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: YB - Zürich
+DTSTART:20261101T130000Z
+DTEND:20261101T150000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-567tetosq86hukdcelo2lh9pcb-at-google.com@bzenger92
 DESCRIPTION:\nQuelle: BSC Young Boys
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🟡 YB: Luzern - YB
 DTSTART:20261107T170000Z
 DTEND:20261107T190000Z
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-2-1njsgvb7s406t5itpge1kkgoac-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: YB - Lausanne
+DTSTART:20261212T193000Z
+DTEND:20261212T213000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-5q9v0ma05jnpmjjhqm2g3l4qrv-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: YB - St. Gallen
+DTSTART:20261024T183000Z
+DTEND:20261024T203000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-2uhd99paheu5gvqcdp9enla4pb-at-google.com@bzenger92
 DESCRIPTION:\nQuelle: BSC Young Boys
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🟡 YB: AC Taverne - YB (Cup\, 1/16-Final)
 DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-2-4mnjrq1krv939t8avaplkifmp4-at-google.com@bzenger92
+DESCRIPTION:\nQuelle: BSC Young Boys
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🟡 YB: YB - Thun
+DTSTART:20261121T170000Z
+DTEND:20261121T190000Z
+DTSTAMP:20261030T061629Z
+UID:nadja-2-1j7qluiesvsu7mu22bsirs99cp-at-google.com@bzenger92
 DESCRIPTION:\nQuelle: BSC Young Boys
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Sölden [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261025T100000
 DTEND;TZID=Europe/Zurich:20261025T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261025-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -375,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Levi [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261115T100000
 DTEND;TZID=Europe/Zurich:20261115T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261115-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -385,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Gurgl [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261122T100000
 DTEND;TZID=Europe/Zurich:20261122T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261122-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -395,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Copper Mountain [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261128T110000
 DTEND;TZID=Europe/Zurich:20261128T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261128-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -406,7 +406,7 @@ SUMMARY:⛷ Ski Männer: Riesenslalom – Copper Mountain [Zeit vorläufig
  ]
 DTSTART;TZID=Europe/Zurich:20261129T100000
 DTEND;TZID=Europe/Zurich:20261129T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261129-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -416,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Beaver Creek [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261203T110000
 DTEND;TZID=Europe/Zurich:20261203T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261203-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Beaver Creek [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261204T110000
 DTEND;TZID=Europe/Zurich:20261204T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261204-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -436,7 +436,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Beaver Creek [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261205T110000
 DTEND;TZID=Europe/Zurich:20261205T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261205-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Beaver Creek [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261206T100000
 DTEND;TZID=Europe/Zurich:20261206T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261206-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -456,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Val d'Isère [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261212T100000
 DTEND;TZID=Europe/Zurich:20261212T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261212-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -466,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Val d'Isère [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261213T100000
 DTEND;TZID=Europe/Zurich:20261213T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261213-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Gröden [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261218T110000
 DTEND;TZID=Europe/Zurich:20261218T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261218-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -486,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Gröden [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261219T110000
 DTEND;TZID=Europe/Zurich:20261219T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261219-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Alta Badia [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261220T100000
 DTEND;TZID=Europe/Zurich:20261220T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261220-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -506,7 +506,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Alta Badia [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261221T100000
 DTEND;TZID=Europe/Zurich:20261221T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261221-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -516,7 +516,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Madonna di Campiglio [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261223T173000
 DTEND;TZID=Europe/Zurich:20261223T213000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261223-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Bormio [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261228T110000
 DTEND;TZID=Europe/Zurich:20261228T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261228-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -536,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Bormio [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261229T110000
 DTEND;TZID=Europe/Zurich:20261229T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20261229-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -546,7 +546,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Kranjska Gora [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270102T100000
 DTEND;TZID=Europe/Zurich:20270102T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270102-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -556,7 +556,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Kranjska Gora [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270103T100000
 DTEND;TZID=Europe/Zurich:20270103T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270103-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -566,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Adelboden [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270109T100000
 DTEND;TZID=Europe/Zurich:20270109T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270109-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -576,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Adelboden [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270110T100000
 DTEND;TZID=Europe/Zurich:20270110T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270110-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Wengen [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270115T110000
 DTEND;TZID=Europe/Zurich:20270115T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270115-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -596,7 +596,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Wengen [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270116T110000
 DTEND;TZID=Europe/Zurich:20270116T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270116-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -606,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Wengen [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270117T100000
 DTEND;TZID=Europe/Zurich:20270117T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270117-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -616,7 +616,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Kitzbühel [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270122T110000
 DTEND;TZID=Europe/Zurich:20270122T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270122-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -626,7 +626,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Kitzbühel [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270123T110000
 DTEND;TZID=Europe/Zurich:20270123T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270123-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -636,7 +636,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Kitzbühel [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270124T100000
 DTEND;TZID=Europe/Zurich:20270124T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270124-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -646,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Schladming [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270126T173000
 DTEND;TZID=Europe/Zurich:20270126T213000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270126-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Schladming [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270127T173000
 DTEND;TZID=Europe/Zurich:20270127T213000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270127-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -666,7 +666,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Chamonix [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270130T100000
 DTEND;TZID=Europe/Zurich:20270130T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270130-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -677,7 +677,7 @@ SUMMARY:⛷ Ski Männer: Abfahrt – Garmisch-Partenkirchen [Zeit vorläuf
  ig]
 DTSTART;TZID=Europe/Zurich:20270220T110000
 DTEND;TZID=Europe/Zurich:20270220T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270220-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -688,7 +688,7 @@ SUMMARY:⛷ Ski Männer: Super-G – Garmisch-Partenkirchen [Zeit vorläuf
  ig]
 DTSTART;TZID=Europe/Zurich:20270221T110000
 DTEND;TZID=Europe/Zurich:20270221T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270221-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -698,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Saalbach [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270227T110000
 DTEND;TZID=Europe/Zurich:20270227T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270227-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -708,7 +708,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Saalbach [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270228T110000
 DTEND;TZID=Europe/Zurich:20270228T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270228-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -718,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Kvitfjell [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270306T110000
 DTEND;TZID=Europe/Zurich:20270306T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270306-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Kvitfjell [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270307T110000
 DTEND;TZID=Europe/Zurich:20270307T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270307-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -738,7 +738,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Riesenslalom – Åre [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270313T100000
 DTEND;TZID=Europe/Zurich:20270313T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270313-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -748,7 +748,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Åre [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270314T100000
 DTEND;TZID=Europe/Zurich:20270314T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270314-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -758,7 +758,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Abfahrt – Sun Valley (Finale) [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270320T110000
 DTEND;TZID=Europe/Zurich:20270320T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270320-Abfahrt@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -768,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Super-G – Sun Valley (Finale) [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270321T110000
 DTEND;TZID=Europe/Zurich:20270321T130000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270321-Super-G@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -779,7 +779,7 @@ SUMMARY:⛷ Ski Männer: Riesenslalom – Sun Valley (Finale) [Zeit vorlä
  ufig]
 DTSTART;TZID=Europe/Zurich:20270324T100000
 DTEND;TZID=Europe/Zurich:20270324T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270324-Riesenslalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -789,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Männer: Slalom – Sun Valley (Finale) [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270325T100000
 DTEND;TZID=Europe/Zurich:20270325T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-men-20270325-Slalom@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Welt
  cup 2026/27\; Terminänderungen bei Ski werden noch nicht automatisch sync
@@ -799,7 +799,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Levi [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261114T100000
 DTEND;TZID=Europe/Zurich:20261114T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20261114@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -809,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Gurgl [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261121T100000
 DTEND;TZID=Europe/Zurich:20261121T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20261121@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -819,7 +819,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Killington [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261129T100000
 DTEND;TZID=Europe/Zurich:20261129T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20261129@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -829,7 +829,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Courchevel [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261222T100000
 DTEND;TZID=Europe/Zurich:20261222T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20261222@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -839,7 +839,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Gosau [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20261229T100000
 DTEND;TZID=Europe/Zurich:20261229T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20261229@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -849,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Flachau [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270105T173000
 DTEND;TZID=Europe/Zurich:20270105T213000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20270105@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -859,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Jasna [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270124T100000
 DTEND;TZID=Europe/Zurich:20270124T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20270124@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -869,7 +869,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Kranjska Gora [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270130T100000
 DTEND;TZID=Europe/Zurich:20270130T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20270130@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -879,7 +879,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Soldeu [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270307T100000
 DTEND;TZID=Europe/Zurich:20270307T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20270307@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
@@ -889,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:⛷ Ski Frauen: Slalom – Sun Valley [Zeit vorläufig]
 DTSTART;TZID=Europe/Zurich:20270325T100000
 DTEND;TZID=Europe/Zurich:20270325T140000
-DTSTAMP:20261029T061649Z
+DTSTAMP:20261030T061629Z
 UID:nadja-ski-women-slalom-20270325@bzenger92
 DESCRIPTION:Vorläufige Schweizer Zeit\, nicht bestätigte Startzeit. Nur 
  Frauen-Slalom. Rennverschiebungen bei Ski werden derzeit noch nicht automa
